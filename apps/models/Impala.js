@@ -1,4 +1,4 @@
-class Impalla {
+class Impala {
 
     constructor(
         name,
@@ -18,4 +18,4 @@ class Impalla {
     };
 }
 
-export default Impalla
+export default Impala
