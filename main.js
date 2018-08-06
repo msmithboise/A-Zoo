@@ -24,3 +24,7 @@ import Whale from "./Models/Whale.js";
 import Xrayfish from "./Models/Xrayfish.js";
 import Yak from "./Models/Yak.js";
 import Zebra from "./Models/Zebra.js";
+
+
+let Alexandra = new Alligator("Alexandra")
+console.log("what is Alexandra?", Alexandra.Alligator)
